@@ -665,4 +665,4 @@ template: inverse
 
 React to [React](http://facebook.github.io/react/)!
 
-.footnote[Jaewe Heo - [@importre](https://github.com/importre)]
+.footnote[발표자료 - [@importre/react-primer](https://github.com/importre/react-primer)]
