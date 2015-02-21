@@ -587,10 +587,10 @@ template: inverse
     - 콤포넌트가 마운트 되기 전에 호출됩니다.
     - 상태 유지를 위해 이 부분을 구현해서 초기 상태에 대한 데이터를 리턴해야 합니다.
 
-- componentWillMount
+- componentWillMount()
     - 마운트 되기 전에 바로 호출됩니다.
 
-- componentDidMount
+- componentDidMount()
     - 마운트 되고난 뒤에 바로 호출됩니다.
 ]
 
