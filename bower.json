@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "authors": [
+    "Jaewe Heo <jaeweheo@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "remark": "~0.10.2",
+    "react": "~0.12.2",
+    "bootstrap": "~3.3.2",
+    "firebase": "~2.2.0",
+    "showdown": "~0.3.4"
+  }
+}
